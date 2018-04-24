@@ -14,7 +14,7 @@ The results of the tests (endorsement 1-5, source_id = 0):
 - neo_e4 (endorsement #4): 23134.819ms
 - neo_e5 (endorsement #5): 436043.645ms
 
-![neo4j results]()
+![neo4j results](https://github.com/kristian94/neo4j-vs-postgres/blob/master/res/neo4j%20res.PNG)
 
 #### postgres
 
@@ -24,7 +24,7 @@ The results of the tests (endorsement 1-5, source_id = 0):
 - pg_e4 (endorsement #4): 5293.406ms
 - pg_e5 (endorsement #5): 16883.756ms
 
-![postgres results]()
+![postgres results](https://github.com/kristian94/neo4j-vs-postgres/blob/master/res/postgres%20res.PNG)
 
 ### conclusion:
 
