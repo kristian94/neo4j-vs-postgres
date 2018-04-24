@@ -1,0 +1,17 @@
+{
+  "name": "neo4j_vs_postgres",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypher-stream": "^1.1.0",
+    "neo4j": "^2.0.0-RC2",
+    "pg": "^7.4.1"
+  }
+}
